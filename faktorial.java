@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class faktorial {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Masukkan Angka : ");
+        System.out.print("Masukkan Angka aaaaaaaa : ");
         int n = sc.nextInt();
         for(int x=n; x>=1; x--){
             for(int y=x-1; y>=1; y--){
